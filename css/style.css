@@ -245,6 +245,9 @@ h3 {
         width: 100%;
         margin-bottom: 20px;
     }
+    .title-carousel-flex {
+        flex-wrap: wrap;
+    }
 }
 @media(max-width: 374px) {
     .header-block img {
