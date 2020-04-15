@@ -223,6 +223,9 @@ h3 {
 .main-social-links {
     flex-wrap: wrap;
 }
+.owl-carousel-item iframe, .videoinsruktion-block iframe {
+    width: 100%;
+}
 @media(max-width: 767px) {
     .header-block {
         flex-wrap: wrap;
