@@ -79,7 +79,7 @@ h3 {
 .main-social-links {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 40px;
+    margin: 40px 0;
 }
 .link_rel_no {
     color: #2583DA;
@@ -222,7 +222,7 @@ h3 {
 }
 .main-social-links {
     flex-wrap: wrap;
-} 
+}
 @media(max-width: 767px) {
     .header-block {
         flex-wrap: wrap;
