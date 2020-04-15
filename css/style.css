@@ -168,7 +168,7 @@ h3 {
     position: absolute;
     bottom: 0;
     top: 0;
-    left: 3%;
+    left: -3%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -177,13 +177,13 @@ h3 {
     position: absolute;
     bottom: 0;
     top: 0;
-    right: 3%;
+    right: -3%;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 .chevron-background {
-    font-size: 55px;
+    font-size: 58px;
     color: #2583da;
 }
 .owl-dots {
