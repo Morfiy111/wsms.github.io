@@ -246,3 +246,8 @@ h3 {
         margin-bottom: 20px;
     }
 }
+@media(max-width: 374px) {
+    .header-block img {
+        height: 28px;
+    }
+}
