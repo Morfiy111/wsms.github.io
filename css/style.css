@@ -248,6 +248,9 @@ h3 {
     .title-carousel-flex {
         flex-wrap: wrap;
     }
+    .hidden-wiget-mobile {
+        display: none;
+    }
 }
 @media(max-width: 374px) {
     .header-block img {
